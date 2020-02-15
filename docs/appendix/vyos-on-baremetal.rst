@@ -245,7 +245,7 @@ Desktop
    :scale: 25 %
    :alt: APU4C4 desktop back
 
-.. _Rufus: https://rufus.ie/
+.. _Rufus: https://getdailybuzz.com/download-rufus-to-create-bootable-usb-drives-the-easy-way/
 
 Qotom Q355G4
 ************
